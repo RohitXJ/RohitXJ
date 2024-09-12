@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RohitXJ
-- 👀 I’m interested in ... Python ,C++ & Machine Learning
+- 👀 I’m interested in ... Python ,C++ ,Game Dev & Machine Learning
 - 🌱 I’m currently learning ... B-Tech CSE AI&ML
 - 💞️ I’m looking to collaborate on ... Coding projects
 - 📫 How to reach me ... gomesrohit92@gmail.com
