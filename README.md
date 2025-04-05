@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @RohitXJ
-- 👀 I’m interested in ... Python ,C++ ,Game Dev & Machine Learning
-- 🌱 I’m currently learning ... B-Tech CSE AI&ML
-- 💞️ I’m looking to collaborate on ... Coding projects
-- 📫 How to reach me ... gomesrohit92@gmail.com
+- 👋 Hi, I’m @RohitXJ  
+- 👀 I’m interested in Python, C++, Game Development & Machine Learning  
+- 🌱 I’m currently pursuing B.Tech in Computer Science Engineering (AI & ML)  
+- 💼 I'm working on ML, DL, and NLP-based projects using PyTorch.
+- 🤖 Check out my deployed models and ML demos on Hugging Face: [huggingface.co/RJx334](https://huggingface.co/RJx334)  
+- 💼 Connect with me on LinkedIn: [linkedin.com/in/rohit-gomes-12209620a](https://www.linkedin.com/in/rohit-gomes-12209620a)  
+- 💞️ I’m looking to collaborate on open-source AI/ML or Game Dev projects  
+- 📫 Reach me at: gomesrohit92@gmail.com  
 
 <!---
 RohitXJ/RohitXJ is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
