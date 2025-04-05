@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @RohitXJ  
+- 👋 Hi, I’m Rohit
 - 👀 I’m interested in Python, C++, Game Development & Machine Learning  
 - 🌱 I’m currently pursuing B.Tech in Computer Science Engineering (AI & ML)  
 - 💼 I'm working on ML, DL, and NLP-based projects using PyTorch.
