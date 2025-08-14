@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rohit
-- 👀 I’m interested in Python, C++, Game Development & Machine Learning  
+- 👀 I’m interested in Python, C++ & Machine Learning  
 - 🌱 I’m currently pursuing B.Tech in Computer Science Engineering (AI & ML)  
 - 💼 I'm working on ML, DL, and NLP-based projects using PyTorch.
 - 🤖 Check out my deployed models and ML demos on Hugging Face: [huggingface.co/RJx334](https://huggingface.co/RJx334)  
